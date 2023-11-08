@@ -1,3 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentpackage name="Zvezda Package" modversion="1" corepackage="False">
+    <Character file="%ModDir%/Characters/Human/Human.xml" />
 </contentpackage>
